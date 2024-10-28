@@ -51,7 +51,7 @@
 <!-- Streak feature -->
 <h3>STREAK FEATURE 🚀🚀</h3>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amanver45&theme=dark&fire=FF5E5E&ring=FFB380&currStreakNum=FF5E5E" 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ankul8471&theme=dark&fire=FF5E5E&ring=FFB380&currStreakNum=FF5E5E" 
        alt="Aman's GitHub Streak" style="width: 50%; height: auto;" />
 </p>
 
@@ -59,13 +59,13 @@
 <div align="center">
   <!-- First image in one row -->
   <div style="margin-bottom: 20px;">
-    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amanver45&theme=github_dark" />
+    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ankul8471&theme=github_dark" />
   </div>
   
   <!-- Two images in the same row -->
   <div style="display: flex; justify-content: center; gap: 10px;">
-    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=amanver45&theme=github_dark"/>
-    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=amanver45&theme=github_dark" />
+    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ankul8471&theme=github_dark"/>
+    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ankul8471&theme=github_dark" />
   </div>
 </div>
 
